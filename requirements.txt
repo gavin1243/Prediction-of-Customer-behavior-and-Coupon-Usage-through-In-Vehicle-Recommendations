@@ -1,0 +1,11 @@
+keras==2.11.0
+matplotlib==3.5.1
+missingno==0.5.1
+numpy==1.21.5
+pandas==1.4.2
+protobuf==4.22.0
+scikit_learn==1.2.1
+scipy==1.7.3
+seaborn==0.11.2
+tensorflow==2.11.0
+tqdm==4.64.0
